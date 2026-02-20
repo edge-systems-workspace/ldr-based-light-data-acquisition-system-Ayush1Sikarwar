@@ -29,4 +29,5 @@ void loop() {
     Serial.print(ligthtPercentage);
     Serial.println("%");
     delay(500);
+
 }
