@@ -1,7 +1,7 @@
 /**
 * @file main.cpp
  * @brief Embedded Light Intensity Monitoring using LDR
- * @author Ayush Kumar Sikarwar
+ * @author Ayush Kumar Sikarwar (Ayush1Sikarwar)
  * @date 19-02-2026
  *
  * @details
