@@ -1,7 +1,7 @@
 /**
 * @file main.cpp
  * @brief Embedded Light Intensity Monitoring using LDR
- * @author Praveen Kumar Sharma [Praveen2005OP]
+ * @author Ayush Kumar Sikarwar
  * @date 19-02-2026
  *
  * @details
